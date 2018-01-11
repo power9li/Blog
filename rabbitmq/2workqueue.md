@@ -1,4 +1,4 @@
-### Rabbit MQ lesson 2 
+### Rabbit MQ Tutorial2 Work Queues 
 
 [TOC]
 
